@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Cavalinho App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cavalinho App</string>
+    <string name="nav_header_subtitle">Ola Motorista, seja bem vindo!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="entrar">Entrar</string>
+
+    <string name="menu_checklist">Inspeção diária</string>
+    <string name="menu_messages">Mensagens</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="footer">Transportes Cavalinho © 2020</string>
+
+    <string name="btn_formchecklist">Inserir Inspeção Diária</string>
+    <string name="btn_sendchecklist">Enviar Inspeções Pendentes</string>
+    <string name="btn_txt_save">Salvar</string>
+    <string name="btn_txt_next">Próximo</string>
+    <string name="btn_previous">Anterior</string>
+
+    <string name="txt_type1">Auto-avaliação</string>
+    <string name="txt_type2">Inspeção Motorista</string>
+    <string name="txt_type3">Inspeção Cavalo</string>
+    <string name="txt_type4">Inspeção Carreta/Truck</string>
+    <string name="txt_type5">Olho Vivo na Estrada</string>
+
+    <string name="ERROR_INTERNET_CONECTION">Falha na conexão com a internet.</string>
+    <string name="SEND_SUCCESS">Todos as inspeções pendentes foram enviadas.</string>
+    <string name="SEND_FAILURE">Nenhuma inspeção pendente para envio.</string>
+
+    <string name="btn_all_notifications">Mensagens Recebidas</string>
+
+    <string name="label_sender">De:</string>
+    <string name="designed_by"><![CDATA[Designed by D&S Cavalinho]]></string>
+    <string name="edit_password">Senha</string>
+    <string name="btn_closeApp">Sair</string>
+
+
+</resources>

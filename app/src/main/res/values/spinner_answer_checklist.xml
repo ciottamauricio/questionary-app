@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_answer_checklist">
+        <item>Escolha</item>
+        <item>Sim</item>
+        <item>Não</item>
+        <item>N/A</item>
+    </string-array>
+</resources>
